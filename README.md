@@ -1,1 +1,1 @@
-# Estimating-Population-Size-of-Mew-Jersey-with-R
+# Estimating-Population-Size-of-New-Jersey-with-R
